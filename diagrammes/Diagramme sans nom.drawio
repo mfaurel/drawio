@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T14:27:25.166Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="F8jOql_y1XPckqykkFmx" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-04T14:33:12.891Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="i0f5E2JtuhYE7SO6AxF9" version="22.1.16" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1687" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -330,6 +330,313 @@
         </mxCell>
         <mxCell id="xDcg4EXe8-0JSBkCGdu8-76" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Non&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="680" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-77" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="895" y="35" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-78" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xDcg4EXe8-0JSBkCGdu8-77" target="xDcg4EXe8-0JSBkCGdu8-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="825" y="110" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-79" value="Non" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xDcg4EXe8-0JSBkCGdu8-81" target="xDcg4EXe8-0JSBkCGdu8-84">
+          <mxGeometry x="-0.8261" y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-80" value="Oui" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xDcg4EXe8-0JSBkCGdu8-81" target="xDcg4EXe8-0JSBkCGdu8-82">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-81" value="Projet Gitlab" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="825" y="110" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-82" value="L&#39;utilisateur a-t-il un compte Forge ?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1085" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-83" value="Non" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xDcg4EXe8-0JSBkCGdu8-84">
+          <mxGeometry x="-0.6316" y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="915" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-84" value="Création d&#39;un projet Github" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="820" y="560" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-85" value="Inviter des utilisateurs à collaborer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="855" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-86" value="Non" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1205" y="149.86" as="sourcePoint" />
+            <mxPoint x="1285" y="149.86" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xDcg4EXe8-0JSBkCGdu8-88" target="xDcg4EXe8-0JSBkCGdu8-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-88" value="Demande de création de compte Forge via le formulaire adéquat" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1285" y="100" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-89" value="Oui" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xDcg4EXe8-0JSBkCGdu8-82" target="xDcg4EXe8-0JSBkCGdu8-93">
+          <mxGeometry x="-0.8431" y="15" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1144.8600000000001" y="180" as="sourcePoint" />
+            <mxPoint x="1145" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1145" y="220" />
+              <mxPoint x="1235" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xDcg4EXe8-0JSBkCGdu8-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-149" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xDcg4EXe8-0JSBkCGdu8-93" target="xDcg4EXe8-0JSBkCGdu8-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-93" value="L&#39;utilisateur a-t-il accès au projet ?" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1205" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="xDcg4EXe8-0JSBkCGdu8-84">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1255" y="465" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-99" value="Oui" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;entryX=-0.022;entryY=0.506;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="xDcg4EXe8-0JSBkCGdu8-100">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1015" y="601" as="sourcePoint" />
+            <mxPoint x="1310" y="599.86" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-100" value="Demande de création de projet Github via le formulaire adéquat&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1285" y="550" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="xDcg4EXe8-0JSBkCGdu8-104">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1360" y="650" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-104" value="Avez-vous besoin d&#39;une chaînte d&#39;intégration continue" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1300" y="675" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xDcg4EXe8-0JSBkCGdu8-104">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="915" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xDcg4EXe8-0JSBkCGdu8-107">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="915" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-107" value="Demande de création de jobs Jenkins et de projet Sonar via un ticket Mantis dans le projet &quot;Industrialisation Forge&quot;&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1255" y="790" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-108" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Oui&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1345" y="740" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-109" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xDcg4EXe8-0JSBkCGdu8-107">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1275" y="860" as="sourcePoint" />
+            <mxPoint x="1035" y="835" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-110" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xDcg4EXe8-0JSBkCGdu8-104">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1265" y="835" as="sourcePoint" />
+            <mxPoint x="1055" y="705" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1359.83" y="745" as="sourcePoint" />
+            <mxPoint x="1359.83" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xDcg4EXe8-0JSBkCGdu8-113" target="xDcg4EXe8-0JSBkCGdu8-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-113" value="Création d&#39;un projet Mantis" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="820" y="940" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-114" value="Oui" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="xDcg4EXe8-0JSBkCGdu8-115">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1010" y="980" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-115" value="Avez-vous un compte Mantis ?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1090" y="960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-116" value="Oui" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1210" y="979.8600000000001" as="sourcePoint" />
+            <mxPoint x="1290" y="979.8600000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="915" y="1150" as="targetPoint" />
+            <mxPoint x="1365" y="1000" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1365" y="1150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-118" value="Demande de création de projet Mantis via un ticket Mantis dans le projet &quot;Industrialisation Forge&quot;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1290" y="930" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-119" value="Non" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xDcg4EXe8-0JSBkCGdu8-115" target="xDcg4EXe8-0JSBkCGdu8-120">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1149.8600000000001" y="1010" as="sourcePoint" />
+            <mxPoint x="1150" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-120" value="Demande de création de compte Forge via le formulaire adéquat" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1083.75" y="1060" width="132.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-121" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xDcg4EXe8-0JSBkCGdu8-120" target="xDcg4EXe8-0JSBkCGdu8-118">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1210" y="1050" as="sourcePoint" />
+            <mxPoint x="1260" y="1000" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1250" y="1095" />
+              <mxPoint x="1250" y="1005" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xDcg4EXe8-0JSBkCGdu8-123" target="xDcg4EXe8-0JSBkCGdu8-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-123" value="Création d&#39;un projet Jira" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="820" y="1170" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-124" value="Oui" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=0.969;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xDcg4EXe8-0JSBkCGdu8-123" target="xDcg4EXe8-0JSBkCGdu8-126">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1020" y="1210" as="sourcePoint" />
+            <mxPoint x="1100" y="1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.461;exitY=1.028;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="915" y="1269.32" as="targetPoint" />
+            <mxPoint x="1366.15" y="1220.0000000000002" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1366" y="1238.32" />
+              <mxPoint x="1365" y="1238.32" />
+              <mxPoint x="1365" y="1269.32" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-126" value="Demande de création de projet Jira via le formulaire adéquat&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1300" y="1180" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xDcg4EXe8-0JSBkCGdu8-128" target="xDcg4EXe8-0JSBkCGdu8-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-128" value="Création d&#39;un projet Confluence" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="820" y="1300" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-129" value="Oui" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="xDcg4EXe8-0JSBkCGdu8-131">
+          <mxGeometry x="-0.0964" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1011" y="1340" as="sourcePoint" />
+            <mxPoint x="1107" y="1340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.461;exitY=1.028;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="914.4300000000001" y="1409.32" as="targetPoint" />
+            <mxPoint x="1375.5799999999995" y="1360.0000000000002" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1374.4299999999998" y="1360.32" />
+              <mxPoint x="1374.4299999999998" y="1409.32" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-131" value="Demande de création de projet Confluence via le formulaire adéquat&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1307" y="1310" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-132" value="Création d&#39;un projet Squash" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="820" y="1450" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-133" value="Oui" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="xDcg4EXe8-0JSBkCGdu8-134">
+          <mxGeometry x="0.019" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1005" y="1490" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-134" value="Avez-vous un compte Mantis ?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1085" y="1470" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="915" y="1660" as="targetPoint" />
+            <mxPoint x="1360" y="1510" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1360" y="1660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-136" value="Demande de création de projet Squash via un ticket Mantis dans le projet &quot;Industrialisation Forge&quot;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1285" y="1440" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-137" value="Non" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xDcg4EXe8-0JSBkCGdu8-134" target="xDcg4EXe8-0JSBkCGdu8-138">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1144.8600000000001" y="1520" as="sourcePoint" />
+            <mxPoint x="1145" y="1570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-138" value="Demande de création de compte Forge via le formulaire adéquat" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1078.75" y="1570" width="132.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-139" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xDcg4EXe8-0JSBkCGdu8-138" target="xDcg4EXe8-0JSBkCGdu8-136">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1205" y="1560" as="sourcePoint" />
+            <mxPoint x="1255" y="1510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1245" y="1605" />
+              <mxPoint x="1245" y="1515" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-140" value="Oui" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1205" y="1489.66" as="sourcePoint" />
+            <mxPoint x="1285" y="1489.66" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="914.66" y="1530" as="sourcePoint" />
+            <mxPoint x="915" y="1700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-142" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="895" y="1700" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-143" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Fin&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="885" y="1740" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-144" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Non&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1095" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-145" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Oui&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1040" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xDcg4EXe8-0JSBkCGdu8-148" value="Mise à jour du compte Forge via le formulaire adéquat" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1205" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-13T17:17:31.580Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="z8Zto7a0Wj_mjlizmn6Q" version="23.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-11T13:08:27.221Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ejNd4gDL_dZGZ9enoym6" version="23.1.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="794" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -133,7 +133,7 @@
           <mxGeometry x="405" y="532.5" width="125" height="35" as="geometry" />
         </mxCell>
         <mxCell id="yBSEWbFeC3_b3NVuvxK3-2" value="A chaque commit, le ticket principal est alimenté" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="15" y="492.5" width="170" height="40" as="geometry" />
+          <mxGeometry x="72.51" y="521.25" width="87.49" height="98.75" as="geometry" />
         </mxCell>
         <mxCell id="yBSEWbFeC3_b3NVuvxK3-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yBSEWbFeC3_b3NVuvxK3-3" target="yBSEWbFeC3_b3NVuvxK3-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -196,30 +196,30 @@
           <mxGeometry x="550" y="720" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yBSEWbFeC3_b3NVuvxK3-25" value="Les messages de commit doivent contenir un id relié au ticket principal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="15" y="550" width="170" height="50" as="geometry" />
+          <mxGeometry x="72.51" y="640" width="87.49" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="QkSozgIPV8917mV8c0pC-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QkSozgIPV8917mV8c0pC-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="10.630000000000003" y="25" width="218.75" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="QkSozgIPV8917mV8c0pC-2" value="Suivi de l&#39;incident sur Snow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="130" y="376.25" width="60" height="30" as="geometry" />
+        <mxCell id="QkSozgIPV8917mV8c0pC-2" value="Suivi de l&#39;incident sur Snow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="10.629999999999995" y="420" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QkSozgIPV8917mV8c0pC-5" value="Id CHG Déploiement" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QkSozgIPV8917mV8c0pC-5" value="Id CHG Déploiement" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="560" y="810" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QkSozgIPV8917mV8c0pC-6" value="Snow" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QkSozgIPV8917mV8c0pC-6" value="Snow" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="400" y="810" width="125" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="QkSozgIPV8917mV8c0pC-7" value="€ Id Snow ET (Jira ou Mantis)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QkSozgIPV8917mV8c0pC-7" value="€ Id Snow ET (Jira ou Mantis)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="600" y="442.5" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QkSozgIPV8917mV8c0pC-8" value="Titre Ticket J/M préfixé par Id ticket Snow + inclus dans la description" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QkSozgIPV8917mV8c0pC-8" value="Titre Ticket J/M préfixé par Id ticket Snow + inclus dans la description" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="500" y="260" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QkSozgIPV8917mV8c0pC-9" value="Prérequis : ticket Snow" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QkSozgIPV8917mV8c0pC-9" value="Prérequis : ticket Snow" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="235" y="190" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QkSozgIPV8917mV8c0pC-10" value="XSquash" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QkSozgIPV8917mV8c0pC-10" value="XSquash" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="655" y="340" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
